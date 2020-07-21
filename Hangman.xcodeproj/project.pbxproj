@@ -13,6 +13,7 @@
 		9E06F81024C6E2A6000B8E90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E06F80E24C6E2A6000B8E90 /* Main.storyboard */; };
 		9E06F81224C6E2A9000B8E90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E06F81124C6E2A9000B8E90 /* Assets.xcassets */; };
 		9E06F81524C6E2A9000B8E90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E06F81324C6E2A9000B8E90 /* LaunchScreen.storyboard */; };
+		9E06F82324C71EEC000B8E90 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E06F82224C71EEC000B8E90 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9E06F81124C6E2A9000B8E90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E06F81424C6E2A9000B8E90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E06F81624C6E2A9000B8E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E06F82224C71EEC000B8E90 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9E06F80A24C6E2A6000B8E90 /* SceneDelegate.swift */,
 				9E06F80C24C6E2A6000B8E90 /* ViewController.swift */,
 				9E06F80E24C6E2A6000B8E90 /* Main.storyboard */,
+				9E06F82224C71EEC000B8E90 /* File.swift */,
 				9E06F81124C6E2A9000B8E90 /* Assets.xcassets */,
 				9E06F81324C6E2A9000B8E90 /* LaunchScreen.storyboard */,
 				9E06F81624C6E2A9000B8E90 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E06F82324C71EEC000B8E90 /* File.swift in Sources */,
 				9E06F80D24C6E2A6000B8E90 /* ViewController.swift in Sources */,
 				9E06F80924C6E2A6000B8E90 /* AppDelegate.swift in Sources */,
 				9E06F80B24C6E2A6000B8E90 /* SceneDelegate.swift in Sources */,
